@@ -1,0 +1,17 @@
+{
+  "name": "fundacion_donde",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exer_1.js",
+
+  "scripts": {
+    "dev": "nodemon ./exer_1.js",
+    "start": "nodemon ./exer_2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
